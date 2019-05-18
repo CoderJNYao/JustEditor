@@ -1,0 +1,2 @@
+# JustEditor
+Just an Editor 
